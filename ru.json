@@ -1,3 +1,11 @@
 {
-  "kek": "алло привет вейт"
+  "kek": "алло привет вейт",
+  "messenger": {
+    "pidrila":"кто?",
+    "ananas": "дудка"
+  },
+  "planner": {
+    "error1": "атата",
+    "meshok": "navoza"
+  }
 }
